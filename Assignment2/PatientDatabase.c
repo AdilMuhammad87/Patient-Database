@@ -2,7 +2,7 @@
 * Author: Muhammad, Adil *
 * Email: adil133@my.yorku.ca *
 * York Student #: 218059956
-************************************** **/
+***************************************/
 
 // Include library functions
 #include <stdio.h>
